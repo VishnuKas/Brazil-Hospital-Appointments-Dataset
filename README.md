@@ -4,7 +4,8 @@ wheather they had shown up to the hospital once after booking his or her appoint
 apperance to the appointment booked. The dataset has been sourced from Kaggle. 
 
 The Dataset has some attributes with detailed information such as:
-  *Patient Id : Unique Id assigned against each patient who is booking the appointments.
+<ul>
+ <li> *Patient Id : Unique Id assigned against each patient who is booking the appointments.</li>
   *Appointment Id: Unique Id assigned against each appointments which is booked by the patients.
   *Gender : Patient's gender.
   *ScheduledDay : Date and time the appointments was booked.
@@ -18,7 +19,7 @@ The Dataset has some attributes with detailed information such as:
   *Handcap : Indicating wheather he or she has any disabilities.
   *SMS Received : Indicating wheather he or she got some notofications after booking appointments.
   *No_show : Patient turned up for their appoinment or not?
-
+</ul>
 This report focuses on columns such as age,gender,Dayofweek,Scholarship,SMS_received and diseases like (hipertension,diabetes, alcoholism) based
 analysis.
 
